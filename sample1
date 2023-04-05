@@ -1,0 +1,16 @@
+read -p "Enter the value of :"x
+
+case $x in
+kuldeep)
+echo "He is a Mentor!";;
+anmol)
+echo "He is a Operator!";;
+manmohan)
+echo "He is an Engineer";;
+rachit)
+echo "He is an Analysist";
+shubham)
+echo "He is an Student!..";;
+*)
+echo "Oops! Somthing went wrong!";;
+esac 

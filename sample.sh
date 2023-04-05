@@ -1,0 +1,2 @@
+ame ="kuldeep"
+echo $ame
